@@ -1,0 +1,49 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+}
+.showcase {
+  color: darkgreen;
+}
+.mainHeader {
+  color: darkgreen;
+  text-align: center;
+  padding: 10px 10px;
+}
+.hdr {
+  padding: 20px 20px;
+}
+.mainSection {
+  padding: 20px 20px 20px 20px;
+}
+.referral {
+  width: 80%;
+  margin: auto;
+  padding: 0px 10px 10px 10px;
+  overflow: hidden;
+}
+.contacts {
+  padding: 0px 10px;
+}
+.phoneNums {
+  padding: 0px 10px;
+}
+.website {
+  padding: 0px 10px 10px 10px;
+}
+.thankYou {
+  padding-bottom: 100px;
+}
+.mainFooter {
+  background-color: darkgreen;
+  color: white;
+  padding: 5px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.mainSection {
+  padding: 20px 20px 20px 20px;
+}
